@@ -1,0 +1,2 @@
+# NewsTextClassifications
+Datawhale零基础入门NLP赛事
